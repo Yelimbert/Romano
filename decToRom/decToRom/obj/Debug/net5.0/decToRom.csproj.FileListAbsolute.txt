@@ -1,0 +1,16 @@
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\bin\Debug\net5.0\decToRom.exe
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\bin\Debug\net5.0\decToRom.deps.json
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\bin\Debug\net5.0\decToRom.runtimeconfig.json
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\bin\Debug\net5.0\decToRom.runtimeconfig.dev.json
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\bin\Debug\net5.0\decToRom.dll
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\bin\Debug\net5.0\decToRom.pdb
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\obj\Debug\net5.0\decToRom.csproj.AssemblyReference.cache
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\obj\Debug\net5.0\decToRom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\obj\Debug\net5.0\decToRom.AssemblyInfoInputs.cache
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\obj\Debug\net5.0\decToRom.AssemblyInfo.cs
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\obj\Debug\net5.0\decToRom.csproj.CoreCompileInputs.cache
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\obj\Debug\net5.0\decToRom.dll
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\obj\Debug\net5.0\ref\decToRom.dll
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\obj\Debug\net5.0\decToRom.pdb
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\obj\Debug\net5.0\decToRom.genruntimeconfig.cache
+C:\Users\iJoseloHD\Desktop\romano\decToRom\decToRom\obj\Debug\net5.0\refint\decToRom.dll

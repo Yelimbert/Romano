@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8GpLk4YlJtTcP1jvclgf+ithNtU1PCgET9KWyxsuoOmL1ltlX753FL2d+v3xKvkEcYcw9Dt5qCXre8XRkWMvMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\iJoseloHD\\Desktop\\romano\\decToRom\\decToRom\\decToRom.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iJoseloHD\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
