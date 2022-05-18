@@ -21,9 +21,9 @@ sudo apt-get update
 sudo apt-get install -y dotnet-sdk-6.0
 ~~~
 
-For more information, you can consult on the official Microsoft documentation [documentation]
+For more information, you can consult on the official Microsoft documentation
 [documentation](https://docs.microsoft.com/en-us/dotnet/core/install/linux-ubuntu)
 
 ## Usage
-To run the program we need to use the command 'dotnet run'
-And to run the unit tests we use 'dotnet xunit'
+To run the program we need to use the command ```dotnet run```
+And to run the unit tests we use ```dotnet xunit```
